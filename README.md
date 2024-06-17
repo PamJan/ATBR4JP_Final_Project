@@ -42,3 +42,7 @@ The source code has comments that explain how app is working.
 #### Bibliography
 
 [1] Kim S, Chen J, Cheng T, et al. PubChem 2023 update. Nucleic Acids Res. 2023;51(D1):D1373--D1380. <doi:10.1093/nar/gkac956>
+
+#### Github
+
+<https://github.com/PamJan/ATBR4JP_Final_Project.git>

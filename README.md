@@ -1,9 +1,3 @@
----
-title: "readme"
-output: html_document
-date: "2024-06-17"
----
-
 # "ChemCheck" application - chemical compounds search engine
 
 If you want to receive basic information about different chemical compounds, this application is for you! The information comes from PubChem [1] API, so all data is verified.
